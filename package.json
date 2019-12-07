@@ -1,0 +1,15 @@
+{
+  "name": "ir-project",
+  "version": "0.9.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "author": "belal",
+  "license": "",
+  "devDependencies": {
+    "tape": "^4.11.0"
+  }
+}
